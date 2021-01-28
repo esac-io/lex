@@ -43,6 +43,7 @@
 ;;
 ;;; Code:
 
+(require 'cl-seq)
 (require 'compile)
 (require 'subr-x)
 
